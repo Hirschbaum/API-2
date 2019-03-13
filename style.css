@@ -1,4 +1,9 @@
+* {
+    font-family: Helvetica;
+    color: rgb(30, 30, 114);
+}
+
 #searchTerm {
     width: 80%;
-    
+
 }
